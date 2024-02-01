@@ -1,0 +1,9 @@
+header img {
+    width: 350px;
+      height:auto
+  }
+  
+  .carousel-inner img {
+      max-width: 50%; /* Establece el ancho máximo al 100% del contenedor */
+      height: 50%; /* La altura se ajustará automáticamente para mantener la proporción original */
+  }
